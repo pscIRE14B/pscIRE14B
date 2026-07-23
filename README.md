@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Partho Sharothi Chowhan</h1>
-<h3 align="center">Full Stack Web Developer | IT Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Full Stack Web Developer | IoT Engineer | Passionate about AI & Embedded Systems </h3>
 
 <p align="center">
     <img
